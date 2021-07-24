@@ -1,3 +1,9 @@
+# Forked
+
+My own version of the Video Speed Controller Chrome extension that increases the size of UI elements to make the extension more usable on the HTPC.
+
+Forked from: https://github.com/igrigorik/videospeed
+
 # The science of accelerated playback
 
 **TL;DR: faster playback translates to better engagement and retention.**
