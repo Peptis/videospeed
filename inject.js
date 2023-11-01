@@ -306,10 +306,10 @@ function defineVideoController() {
     }">
           <span data-action="drag" class="draggable">${speed}</span>
           <span id="controls">
-            <button data-action="rewind" class="rw">«</button>
+            <button data-action="rewind" class="rw">&lt;</button>
             <button data-action="slower">&minus;</button>
             <button data-action="faster">&plus;</button>
-            <button data-action="advance" class="rw">»</button>
+            <button data-action="advance" class="rw">&gt;</button>
             <button data-action="display" class="hideButton">&times;</button>
           </span>
         </div>
