@@ -2,7 +2,7 @@
   line-height: 1.8em;
   font-family: sans-serif;
   vertical-align: middle;
-  font-size: 18px;
+  font-size: 32px;
 }
 
 :host(:hover) #controls {
