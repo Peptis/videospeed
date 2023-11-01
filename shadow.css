@@ -17,9 +17,9 @@
   background: black;
   color: white;
 
-  border-radius: 0px;
-  padding: 6px 12px 6px 12px;
-  margin: 0px 0px 0px 0px;
+  border-radius: 6px;
+  padding: 4px;
+  margin: 10px 10px 10px 15px;
 
   cursor: default;
   z-index: 9999999;
