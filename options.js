@@ -11,12 +11,12 @@ var tcDefaults = {
   controllerOpacity: 0.3, // default: 0.3
   keyBindings: [
     { action: "display", key: 86, value: 0, force: false, predefined: true }, // V
-    { action: "slower", key: 83, value: 0.1, force: false, predefined: true }, // S
-    { action: "faster", key: 68, value: 0.1, force: false, predefined: true }, // D
+    { action: "slower", key: 83, value: 0.25, force: false, predefined: true }, // S
+    { action: "faster", key: 68, value: 0.25, force: false, predefined: true }, // D
     { action: "rewind", key: 90, value: 10, force: false, predefined: true }, // Z
     { action: "advance", key: 88, value: 10, force: false, predefined: true }, // X
     { action: "reset", key: 82, value: 1, force: false, predefined: true }, // R
-    { action: "fast", key: 71, value: 1.8, force: false, predefined: true } // G
+    { action: "fast", key: 71, value: 2.0, force: false, predefined: true } // G
   ],
   blacklist: `www.instagram.com
     twitter.com
